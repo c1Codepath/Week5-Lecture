@@ -14,6 +14,7 @@
 		A034DD121CD00377005552D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A034DD101CD00377005552D0 /* LaunchScreen.storyboard */; };
 		A034DD1D1CD00377005552D0 /* Week5_LectureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A034DD1C1CD00377005552D0 /* Week5_LectureTests.swift */; };
 		A034DD281CD00377005552D0 /* Week5_LectureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A034DD271CD00377005552D0 /* Week5_LectureUITests.swift */; };
+		A034DD361CD00685005552D0 /* BankCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A034DD351CD00685005552D0 /* BankCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A034DD231CD00377005552D0 /* Week5-LectureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Week5-LectureUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A034DD271CD00377005552D0 /* Week5_LectureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week5_LectureUITests.swift; sourceTree = "<group>"; };
 		A034DD291CD00377005552D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A034DD351CD00685005552D0 /* BankCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BankCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A034DD071CD00377005552D0 /* AppDelegate.swift */,
 				A034DD091CD00377005552D0 /* ViewController.swift */,
 				A034DD0B1CD00377005552D0 /* Main.storyboard */,
+				A034DD351CD00685005552D0 /* BankCell.swift */,
 				A034DD0E1CD00377005552D0 /* Assets.xcassets */,
 				A034DD101CD00377005552D0 /* LaunchScreen.storyboard */,
 				A034DD131CD00377005552D0 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A034DD0A1CD00377005552D0 /* ViewController.swift in Sources */,
+				A034DD361CD00685005552D0 /* BankCell.swift in Sources */,
 				A034DD081CD00377005552D0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
